@@ -1,2 +1,2 @@
 # myRepo
-My sample repository.
+My sample repository for exercise.
